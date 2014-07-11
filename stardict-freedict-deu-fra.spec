@@ -1,5 +1,5 @@
 %define	version	2.4.2
-%define release 14
+%define release 15
 %define dict_format_version	2.4.2
 
 Summary:	German -> French Freedict dictionary for StarDict 2
